@@ -32,7 +32,7 @@ Open the `index.html` file in your web browser to see the app in action.
 
 ## Live Demo
 
-Check out the live demo of the application here: [Password Generator - Netlify](https://password-generator-jonas.netlify.app/). This live demo provides you with a real-time experience of how the application operates.
+Check out the live demo of the application here: [Password Generator - Netlify](https://random-password-jonas.netlify.app/). This live demo provides you with a real-time experience of how the application operates.
 
 ## Usage
 
